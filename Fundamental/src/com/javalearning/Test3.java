@@ -1,5 +1,5 @@
 package com.javalearning;
 
-public class teat1 {
+public class Test3 {
 
 }
